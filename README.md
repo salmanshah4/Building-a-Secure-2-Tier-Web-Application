@@ -1,5 +1,4 @@
-# Building-a-Secure-2-Tier-Web-Application
-## SOP: Build and Verify a Secure Two-Tier Web Application in Azure
+# Build and Verify a Secure Two-Tier Web Application in Azure
 
 ### Objective
 
